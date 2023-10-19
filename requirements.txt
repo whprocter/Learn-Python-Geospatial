@@ -2,6 +2,8 @@ pandas
 geopandas
 numpy
 libpysal
+folium
 matplotlib
 mapclassify
 geodatasets
+geoplot
